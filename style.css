@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    /* background: linear-gradient(135deg, #fee6f0 25%, transparent 25%) -50px 0,
+    linear-gradient(225deg, #fee6f0 25%, transparent 25%) -50px 0,
+    linear-gradient(315deg, #fee6f0 25%, transparent 25%),
+    linear-gradient(45deg, #fee6f0 25%, transparent 25%); */
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    height: 100vh;
+}
